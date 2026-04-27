@@ -1,0 +1,6 @@
+{
+  "name": "EquiLens AI: Bias Auditor",
+  "description": "An AI-powered fairness dashboard to detect, explain, and mitigate algorithmic bias in datasets using Google's Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
