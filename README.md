@@ -25,6 +25,7 @@ How It Works
 Upload CSV → Select columns → Detect bias → Get AI insights → Reduce bias → Download improved data
 
 Team
+Sruthy Kanth
 
 Built as part of an AI Hackathon project 
 
